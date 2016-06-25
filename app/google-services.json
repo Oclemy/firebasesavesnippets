@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "75126055291",
+    "firebase_url": "https://project-7012377031895580688.firebaseio.com",
+    "project_id": "project-7012377031895580688",
+    "storage_bucket": "project-7012377031895580688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75126055291:android:93d2bb65c4aeffb7",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasesavesnippets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75126055291-7ftkq9clh23mvj1oi9jcga6hnkl3llrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgzvepOK398x6T7cC1Rb1yHJUCOofhzv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
